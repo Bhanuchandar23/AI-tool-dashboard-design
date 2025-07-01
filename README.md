@@ -34,6 +34,7 @@ Simulated AI responses
 Professional avatar system
 The interface follows modern AI tool design patterns with a focus on usability and visual appeal, making it perfect for any AI-powered application.
 
-Click the URL below to view ![Screenshot 2025-07-01 105059](https://github.com/user-attachments/assets/6c11810b-bee8-4e9b-bdae-b937f368ba53)
+ ![Screenshot 2025-07-01 105059](https://github.com/user-attachments/assets/6c11810b-bee8-4e9b-bdae-b937f368ba53)
 
+Click the URL below to view
 https://v0-ai-tool-dashboard-design.vercel.app/
